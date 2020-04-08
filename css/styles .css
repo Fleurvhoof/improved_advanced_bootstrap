@@ -3,11 +3,15 @@
 body {
 	background-color: #397339;
 	color: #000000;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Gotu', sans-serif;
+	
 	
 }
 .jumbotron{
-	background-color: #004B01
-	
-		
+	background-color: #004B01;
+}
+
+.my-navbar {
+	background-color: #017A00;
+	font-family: 'Gotu', sans-serif;
 }
